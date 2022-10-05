@@ -17,8 +17,8 @@ The third milestone covers:
 | Number | Deliverable | Link | Notes |
 | ------------- | ------------- | ------------- |------------- |
 | 0a.    | License |  [Asylum UI](https://gitlab.com/asylum-space/asylum-ui/-/blob/main/LICENSE), [Asylum Node](https://gitlab.com/asylum-space/asylum-item-nft/-/blob/main/LICENSE), [Asylum Unity SDK](https://gitlab.com/asylum-space/asylum-unity-sdk/-/blob/main/LICENSE) | All Asylum projects except games have MIT license |
-| 0b.    |  Documentation | [Unity SDK](https://gitlab.com/asylum-space/asylum-unity-sdk/-/tree/main/Docs)| Improved documentation for Unity SDK, describe new features with managing 3D items and items drop |
-| 0c.    | Testing Guide | [Testing Guide](https://gitlab.com/asylum-space/asylum-ui/-/blob/main/docs/testing-guide-patterns.md) | Guide through the interoperability of game mechanics between two games and association of Blueprints with in-game items, specified by Game Client |
+| 0b.    |  Documentation | [Asylum Docs](https://docs.asylum.space), [Unity SDK](https://docs.asylum.space/category/unity-sdk)| Combined all documentation of Asylum Node, UI, Unity SDK, Standards in one single place. Expnaded documentation for Unity SDK, overall improvements for all documentation |
+| 0c.    | Testing Guide | [Testing Guide: Configure Patterns](https://docs.asylum.space/tutorials/testing-guide-patterns) | Guide through the interoperability of game mechanics between two games and association of Blueprints with in-game items, specified by Game Client |
 | 0d.    | Docker | - | Current Docker setup doesn't require additional changes |
 | 0e.    | Article | - | - |
 | 1.     | Unity SDK | [Asylum Unity SDK Documentation](https://gitlab.com/asylum-space/asylum-unity-sdk/-/blob/main/README.md) | Main updates in Unity SDK: support of Standalone mode and Unity Play Mode,  editor extension for Unity SDK, async assets loading |
